@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'SoukouMincho';
+    font-display: swap;
+    src: url('/font/SoukouMincho.ttf') format("truetype");  
+  }
+  @font-face {
+    font-family: 'SourceHanSerif';
+    font-display: swap;
+    src: url('/font/SourceHanSerifTC-Heavy.otf') format("truetype");  
+  }
