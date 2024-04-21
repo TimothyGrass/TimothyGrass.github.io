@@ -2,27 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://timothygrass.github.io/2024/12/17/montreal2/</loc>
+    <loc>https://timothygrass.github.io/2023/12/17/montreal2/</loc>
     
-    <lastmod>2024-04-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://timothygrass.github.io/2024/12/16/montreal1/</loc>
-    
-    <lastmod>2024-03-21</lastmod>
+    <lastmod>2024-04-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://timothygrass.github.io/2024/02/21/winnipeg3/</loc>
+    <loc>https://timothygrass.github.io/2023/12/16/montreal1/</loc>
     
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://timothygrass.github.io/2023/11/01/winnipeg3/</loc>
+    
+    <lastmod>2024-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://timothygrass.github.io/2023/10/01/winnipeg2/</loc>
+    
+    <lastmod>2024-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://timothygrass.github.io/2023/09/01/winnipeg1/</loc>
+    
+    <lastmod>2024-04-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -32,24 +50,6 @@
     <loc>https://timothygrass.github.io/2024/02/06/vtube1/</loc>
     
     <lastmod>2024-02-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://timothygrass.github.io/2024/01/21/winnipeg2/</loc>
-    
-    <lastmod>2024-01-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://timothygrass.github.io/2024/01/01/winnipeg1/</loc>
-    
-    <lastmod>2024-01-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
